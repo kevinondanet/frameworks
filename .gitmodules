@@ -1,0 +1,36 @@
+[submodule "BMAD-METHOD-main"]
+	path = BMAD-METHOD-main
+	url = https://github.com/bmad-code-org/BMAD-METHOD
+	branch = main
+[submodule "KiroCrew-main"]
+	path = KiroCrew-main
+	url = https://github.com/kirodotdev/KiroCrew
+	branch = main
+[submodule "OpenSpec-main"]
+	path = OpenSpec-main
+	url = https://github.com/Fission-AI/OpenSpec
+	branch = main
+[submodule "RAMPART-main"]
+	path = RAMPART-main
+	url = https://github.com/microsoft/RAMPART
+	branch = main
+[submodule "gsd-core-next"]
+	path = gsd-core-next
+	url = https://github.com/open-gsd/gsd-core
+	branch = next
+[submodule "hve-core-main"]
+	path = hve-core-main
+	url = https://github.com/microsoft/hve-core
+	branch = main
+[submodule "sample-aidlc-kiro-power-main"]
+	path = sample-aidlc-kiro-power-main
+	url = https://github.com/aws-samples/sample-aidlc-kiro-power
+	branch = main
+[submodule "spec-kit-main"]
+	path = spec-kit-main
+	url = https://github.com/github/spec-kit
+	branch = main
+[submodule "superpowers-main"]
+	path = superpowers-main
+	url = https://github.com/obra/Superpowers
+	branch = main
